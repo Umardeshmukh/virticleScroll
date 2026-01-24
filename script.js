@@ -155,7 +155,7 @@ reelsData.forEach(function(elem){
                 </div>`
     
 })
-console.log(sum);
+
 
 var allReels = document.querySelector(".allreels")
 allReels.innerHTML=sum;
